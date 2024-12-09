@@ -3,12 +3,12 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ### 📚 Table of Contents
-- SQL
+- [SQL](#sql)
 - Tableau
 - Excel
 - Python 
 
-### SQL
+## SQL
 
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
