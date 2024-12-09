@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Dashboard Link |
 | --- | --- | --- | 
-| ✈️  Birtish Airways Review | 301 | [Dashboard](https://public.tableau.com/app/profile/diamond.or/viz/BritishAirwayReview_17319146250840/Dashboard1) | 
+| ✈️  Birtish Airways Review | 301 | [Dashboard](https://public.tableau.com/app/profile/diamond.or/viz/BritishAirwayReview_17319146250840/Dashboard1/) | 
 
 ## Excel
 
