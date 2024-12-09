@@ -11,5 +11,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## SQL
 
 | Project Link | Area of Analysis | Project Description |
-| --- | --- | --- | --- |
-| Seconds | 301 | 283 | 290 |
+| --- | --- | --- | 
+| Seconds | 301 | 283 | 
