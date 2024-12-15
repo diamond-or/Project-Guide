@@ -11,8 +11,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## SQL
 
 | Project Link | Area of Analysis | Project Description |
-| World Laid Off | --- | --- | 
-| Seconds | 301 | 283 | 
+| --- | --- | --- | 
+| World Laid Off | 301 | 283 | 
 
 ## Tableau
 
