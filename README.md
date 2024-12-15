@@ -7,13 +7,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Tableau](#tableau)
 - [Excel](#excel)
 - [Python](#python)
-<!--
+
 ## SQL
 
 | Project Link | Area of Analysis | Project Description |
-| --- | --- | --- | 
+| World Laid Off | --- | --- | 
 | Seconds | 301 | 283 | 
--->
+
 ## Tableau
 
 | Project Link | Area of Analysis | Dashboard Link |
