@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Dashboard Link |
 | --- | --- | --- | 
-| ✈️  Birtish Airways Review | 301 | [Dashboard](https://public.tableau.com/app/profile/diamond.or/viz/BritishAirwayReview_17319146250840/Dashboard1/) | 
+| ✈️  Birtish Airways Review | Performed data wrangling on the British Airways Review CSV file using Python to clean the dataset by removing null values. Leveraged Tableau to design an interactive dashboard with filters, enabling dynamic visualizations for deeper insights.| [Dashboard](https://public.tableau.com/views/BritishAirwaysReview_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
 
 ## Excel
 
