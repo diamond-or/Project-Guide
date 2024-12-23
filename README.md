@@ -8,13 +8,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Excel](#excel)
 - [Python](#python)
 
-## SQL
+# SQL
 
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- | 
 | [World Laid Off](https://github.com/diamond-or/Layoff_Insights) | Data Cleaning, data transformation, and data analysis |123 | 
 
-## Tableau
+# Tableau
 
 | Project Link | Area of Analysis | Dashboard Link |
 | --- | --- | --- | 
