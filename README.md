@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- | 
-| 📉 [World Laid Off](https://github.com/diamond-or/Layoff_Insights) | Data Cleaning, data transformation, and data analysis |123 | 
+| 📉 [World Laid Off](https://github.com/diamond-or/Layoff_Insights) | Data Cleaning, data transformation, and data analysis | Performing wrangling and exploring data analysis on global laid off trend across various industries around the world.   | 
 
 # Tableau
 
