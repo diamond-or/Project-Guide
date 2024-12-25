@@ -22,7 +22,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | ✈️ [Birtish Airways Review](https://github.com/diamond-or/BritishAirways_Reviews_Analysis) | Performed data wrangling on the British Airways Review CSV file using Python to clean the dataset by removing null values. Leveraged Tableau to design an interactive dashboard with filters, enabling dynamic visualizations for deeper insights.| [Dashboard](https://public.tableau.com/views/BritishAirwaysReview_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
 
 
-## Excel
+# Excel
 
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- | 
