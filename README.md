@@ -26,7 +26,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- | 
-| Seconds | 301 | 283 | 
+| 🚙 [Road Accident Dashboard](https://github.com/diamond-or/RoadAccident_Dashboard/tree/main) | 301 | 283 | 
 <!--
 ## Python
 
